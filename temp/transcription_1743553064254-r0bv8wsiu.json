@@ -1,0 +1,131 @@
+{
+  "text": " In the heart of Agrabah, a city of mystery and enchantment, lived a young man named Aladdin. He was a street urchin, known for his quick-witted and even quicker hands. But despite his humble beginnings, Aladdin dreamed of a life beyond the marketplace. One day, fate intervened when he crossed paths with Princess Jasmine, a princess yearning for freedom from her gilded cage. Disguised as a commoner, she explored the city, and Aladdin was smitten at first sight. Their connection was undeniable, but their worlds were far apart. Aladdin's life took an extraordinary turn when he stumbled upon a hidden cave, the Cave of Wonders. Inside, he discovered a magic lamp, home to a powerful genie. With the genie's help, Aladdin transformed himself into Prince Ali, hoping to win Jasmine's heart. But as he navigated the treacherous waters of royalty, he learned that true worth comes not from titles, but from character. In a whirlwind of adventure, Aladdin faced the villainous Jafar, who sought the lamp's power for himself. Through bravery and selflessness, Aladdin defeated Jafar, proving that even a diamond in the rough could become a hero.",
+  "segments": [
+    {
+      "text": "In the heart of Agrabah, a city of mystery and enchantment, lived a young man named Aladdin.",
+      "start": "00:00:00.000",
+      "end": "00:00:05.600",
+      "start_seconds": 0.0,
+      "end_seconds": 5.6000000000000005
+    },
+    {
+      "text": "He was a street urchin, known for his quick-witted and even quicker hands.",
+      "start": "00:00:05.600",
+      "end": "00:00:10.100",
+      "start_seconds": 5.6000000000000005,
+      "end_seconds": 10.1
+    },
+    {
+      "text": "But despite his humble beginnings, Aladdin dreamed of a life beyond the marketplace.",
+      "start": "00:00:10.100",
+      "end": "00:00:14.900",
+      "start_seconds": 10.1,
+      "end_seconds": 14.9
+    },
+    {
+      "text": "One day, fate intervened when he crossed paths with Princess Jasmine,",
+      "start": "00:00:14.900",
+      "end": "00:00:18.900",
+      "start_seconds": 14.9,
+      "end_seconds": 18.900000000000002
+    },
+    {
+      "text": "a princess yearning for freedom from her gilded cage.",
+      "start": "00:00:18.900",
+      "end": "00:00:22.100",
+      "start_seconds": 18.900000000000002,
+      "end_seconds": 22.1
+    },
+    {
+      "text": "Disguised as a commoner, she explored the city, and Aladdin was smitten at first sight.",
+      "start": "00:00:22.100",
+      "end": "00:00:26.900",
+      "start_seconds": 22.1,
+      "end_seconds": 26.900000000000002
+    },
+    {
+      "text": "Their connection was undeniable, but their worlds were far apart.",
+      "start": "00:00:26.900",
+      "end": "00:00:30.700",
+      "start_seconds": 26.9,
+      "end_seconds": 30.7
+    },
+    {
+      "text": "Aladdin's life took an extraordinary turn when he stumbled upon a hidden cave,",
+      "start": "00:00:30.700",
+      "end": "00:00:35.200",
+      "start_seconds": 30.7,
+      "end_seconds": 35.2
+    },
+    {
+      "text": "the Cave of Wonders.",
+      "start": "00:00:35.200",
+      "end": "00:00:36.700",
+      "start_seconds": 35.2,
+      "end_seconds": 36.7
+    },
+    {
+      "text": "Inside, he discovered a magic lamp, home to a powerful genie.",
+      "start": "00:00:36.700",
+      "end": "00:00:40.900",
+      "start_seconds": 36.7,
+      "end_seconds": 40.9
+    },
+    {
+      "text": "With the genie's help, Aladdin transformed himself into Prince Ali,",
+      "start": "00:00:40.900",
+      "end": "00:00:44.900",
+      "start_seconds": 40.9,
+      "end_seconds": 44.9
+    },
+    {
+      "text": "hoping to win Jasmine's heart.",
+      "start": "00:00:44.900",
+      "end": "00:00:47.000",
+      "start_seconds": 44.9,
+      "end_seconds": 47.0
+    },
+    {
+      "text": "But as he navigated the treacherous waters of royalty,",
+      "start": "00:00:47.000",
+      "end": "00:00:50.300",
+      "start_seconds": 47.0,
+      "end_seconds": 50.3
+    },
+    {
+      "text": "he learned that true worth comes not from titles, but from character.",
+      "start": "00:00:50.300",
+      "end": "00:00:54.600",
+      "start_seconds": 50.3,
+      "end_seconds": 54.599999999999994
+    },
+    {
+      "text": "In a whirlwind of adventure, Aladdin faced the villainous Jafar,",
+      "start": "00:00:54.600",
+      "end": "00:00:58.500",
+      "start_seconds": 54.6,
+      "end_seconds": 58.5
+    },
+    {
+      "text": "who sought the lamp's power for himself.",
+      "start": "00:00:58.500",
+      "end": "00:01:01.400",
+      "start_seconds": 58.5,
+      "end_seconds": 61.4
+    },
+    {
+      "text": "Through bravery and selflessness, Aladdin defeated Jafar,",
+      "start": "00:01:01.400",
+      "end": "00:01:04.700",
+      "start_seconds": 61.4,
+      "end_seconds": 64.7
+    },
+    {
+      "text": "proving that even a diamond in the rough could become a hero.",
+      "start": "00:01:04.700",
+      "end": "00:01:24.700",
+      "start_seconds": 64.7,
+      "end_seconds": 84.7
+    }
+  ]
+}
