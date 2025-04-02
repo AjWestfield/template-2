@@ -1,6 +1,6 @@
-# Ansh & Riley Full-Stack Template
+# AVA - Autonomous Video Agent
 
-This is a full-stack template project for Software Composers to create  applications with AI.
+This is a full-stack application for an Autonomous Video Agent that helps with video creation and management.
 
 ## Getting started
 To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
